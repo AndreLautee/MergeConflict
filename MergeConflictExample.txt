@@ -1,2 +1,2 @@
 Hello my name is Andre.
-Conflict resolved!!
+This is an example of merge conflict.
