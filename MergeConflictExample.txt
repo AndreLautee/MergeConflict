@@ -1,2 +1,2 @@
 Hello my name is Andre.
-Completely different line to create a merge conflict!!!
+Conflict resolved!!
